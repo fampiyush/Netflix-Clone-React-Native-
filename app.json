@@ -3,13 +3,12 @@
     "name": "Movies",
     "slug": "Movies",
     "version": "1.0.0",
-    "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#1c1c1a"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
